@@ -160,7 +160,7 @@ deps = {
     'src/third_party/node':
         'https://github.com/nwjs/node.git@origin/nw11',
     'src/content/nw':
-        'https://github.com/nwjs/nw.js.git@origin/nw11',
+        'https://github.com/jnmarczi/nw.js.git@origin/nw11',
 }
 
 deps_os = {
